@@ -8,7 +8,8 @@ mkdir build
 cd build/
 cmake ../
 make # You might get errors if your system is not up to date!
-export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/Project1/build
+export export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/location_of_the_project/Project1/build
+
 ```
 To run -
 
