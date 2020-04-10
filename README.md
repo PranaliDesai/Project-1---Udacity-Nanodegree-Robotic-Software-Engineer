@@ -15,6 +15,6 @@ To run -
 
 ```
 cd /location_of_the_project/Project1/world/
-gazebo project1_world.world
+gazebo world_project1.world
 ```
 
